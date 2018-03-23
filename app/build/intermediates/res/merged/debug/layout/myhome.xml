@@ -1,0 +1,177 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/alert"
+    android:background="@drawable/night"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <AnalogClock
+        android:id="@+id/analog_clock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext1"
+        android:layout_toRightOf="@+id/analog_clock"
+        android:text="This is a Time Teller"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext2"
+        android:layout_below="@+id/myhometext1"
+        android:layout_toRightOf="@+id/analog_clock"
+        android:text="This is a"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="40dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext3"
+        android:layout_below="@+id/myhometext2"
+        android:layout_toRightOf="@+id/analog_clock"
+        android:text="00"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="35dp"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="42dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myhometext2"
+        android:layout_toRightOf="@+id/myhometext3"
+        android:id="@+id/new1"
+        android:text="o"
+        android:textColor="#ffffff"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext4"
+        android:layout_below="@+id/myhometext2"
+        android:layout_toRightOf="@+id/new1"
+        android:text="00"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="42dp"
+        android:layout_marginLeft="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myhometext2"
+        android:layout_toRightOf="@+id/myhometext4"
+        android:text="%"
+        android:textColor="#ffffff"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext5"
+        android:layout_below="@+id/myhometext3"
+        android:layout_toRightOf="@+id/digital_clock"
+        android:layout_marginLeft="43dp"
+        android:text="Temp."
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myhometext6"
+        android:layout_below="@+id/myhometext4"
+        android:layout_toRightOf="@+id/myhometext5"
+        android:text="Humidity"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_marginLeft="19dp"/>
+
+    <TextClock
+        android:id="@+id/digital_clock"
+        android:textStyle="bold"
+        android:layout_below="@+id/analog_clock"
+        android:layout_marginLeft="15dp"
+        android:format12Hour="hh:mm:ss a"
+        android:textColor="#ffffff"
+        android:textSize="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Devices: "
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="2dp"
+        android:textSize="15dp"
+        android:id="@+id/hometext"
+        android:layout_below="@+id/digital_clock" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="99"
+        android:id="@+id/dev"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/hometext"
+        android:textSize="20dp"
+        android:layout_below="@+id/digital_clock" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text=" /60"
+        android:layout_toRightOf="@+id/dev"
+        android:textSize="15dp"
+        android:layout_below="@+id/digital_clock"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Electricity: "
+        android:layout_marginLeft="50dp"
+        android:layout_toRightOf="@+id/dev"
+        android:layout_marginTop="2dp"
+        android:textSize="15dp"
+        android:id="@+id/pow"
+        android:layout_below="@+id/digital_clock"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="220"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/pow"
+        android:textSize="20dp"
+        android:id="@+id/power"
+        android:layout_below="@+id/digital_clock"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text=" Volts"
+        android:layout_toRightOf="@+id/power"
+        android:textSize="15dp"
+        android:layout_marginBottom="5dp"
+        android:layout_below="@+id/digital_clock"/>
+
+</RelativeLayout>

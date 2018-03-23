@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/homelay"
+    android:focusable="true"
+    android:layout_height="match_parent"
+    android:background="@mipmap/backhome"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.arshatinder.smarthome.home"
+    tools:showIn="@layout/app_bar_home">
+
+    <android.support.v4.view.ViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:background="#000000"
+        android:layout_height="213dp">
+    </android.support.v4.view.ViewPager>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabDots"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/pager"
+        android:layout_height="20dp"
+        app:tabGravity="center"
+        app:tabBackground="@drawable/tab_selector"
+        app:tabIndicatorHeight="0dp"/>
+
+    <com.orangegangsters.github.swipyrefreshlayout.library.SwipyRefreshLayout
+        android:layout_width="wrap_content"
+        app:srl_direction="bottom"
+        android:layout_below="@+id/tabDots"
+        android:id="@+id/swipe_refresh"
+        android:layout_height="wrap_content">
+
+        <GridView
+            android:numColumns="3"
+            android:gravity="center"
+            android:padding="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:stretchMode="columnWidth"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/grid" />
+    </com.orangegangsters.github.swipyrefreshlayout.library.SwipyRefreshLayout>
+</RelativeLayout>

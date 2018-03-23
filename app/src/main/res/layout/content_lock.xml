@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.arshatinder.smarthome.lock"
+    tools:showIn="@layout/activity_lock">
+
+    <ImageView android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id="@+id/lock_im"/>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/pin_text"
+        android:textSize="35dp"
+        android:layout_marginTop="40dp"
+        android:textColor="#000"
+        android:text="Enter Pin"/>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pin_text_new"
+        android:layout_marginTop="8dp"
+        android:text="Wrong Passcode"
+        android:textColor="#B13015"
+        android:textSize="16dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/pin_text"/>
+
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:id="@+id/pin_lay"
+        android:layout_below="@+id/pin_text_new"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <ImageView android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/pin1"
+            android:src="@mipmap/empty_pin"/>
+        <ImageView android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/pin2"
+            android:layout_marginLeft="20dp"
+            android:src="@mipmap/empty_pin"/>
+        <ImageView android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/pin3"
+            android:layout_marginLeft="20dp"
+            android:src="@mipmap/empty_pin"/>
+        <ImageView android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/pin4"
+            android:layout_marginLeft="20dp"
+            android:src="@mipmap/empty_pin"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/pin_lay">
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:id="@+id/butt_lay1">
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key1"
+                android:src="@mipmap/key1"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key2"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key2"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key3"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key3"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:id="@+id/butt_lay2">
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key4"
+                android:src="@mipmap/key4"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key5"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key5"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key6"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key7"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:id="@+id/butt_lay3">
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key7"
+                android:src="@mipmap/key6"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key8"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key8"/>
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key9"
+                android:layout_marginLeft="20dp"
+                android:src="@mipmap/key9"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:id="@+id/butt_lay4">
+            <ImageView android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/key0"
+                android:src="@mipmap/key0"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

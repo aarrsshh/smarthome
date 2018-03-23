@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#50394c"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From Developers!"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="15dp"
+        android:layout_gravity=""
+        android:text="Smart (Sensor Monitoring and Reporting Technology) Home refers to handling and controlling home appliances by using micro-controller or computer technology. Automation is popular now days because it provides ease, security and efficiency. In this, a sensor senses the status of appliances and updates to web server. If user is far away from home, he can access and change status of appliances i.e. switches it on/off."
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

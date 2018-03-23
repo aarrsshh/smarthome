@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="croller-1.0.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sdsmdg.harjot/croller/1.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sdsmdg.harjot/croller/1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sdsmdg.harjot/croller/1.0.2/49247b1ca4d507fb21041d6ef39904f2efbaff39/croller-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

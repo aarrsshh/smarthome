@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/seek_lay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.arshatinder.smarthome.Room">
+
+    <com.sdsmdg.harjot.crollerTest.Croller
+        android:id="@+id/croller"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:back_circle_color="#EDEDE1"
+        app:indicator_color="#0B3C49"
+        app:indicator_width="15"
+        app:is_continuous="true"
+        app:label_color="#000000"
+        app:main_circle_color="#FFFFFF"
+        app:max="4"
+        app:progress_primary_color="#0B3C49"
+        app:progress_secondary_color="#EEEEEE"
+        app:start_offset="45" />
+
+</android.support.constraint.ConstraintLayout>

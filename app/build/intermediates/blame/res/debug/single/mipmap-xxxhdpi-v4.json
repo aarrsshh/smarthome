@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key0.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key0.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\splash.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backlobby.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backlobby.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\porch.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\porch.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key6.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key6.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backporch.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backporch.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\back.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bulb_on.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\bulb_on.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\password.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\empty.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key7.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key7.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\alarm_on.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\alarm_on.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\password_check.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\password_check.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bed.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\bed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\empty_pin.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\empty_pin.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\new_device.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\new_device.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\door_close.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\door_close.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\sign_out.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\sign_out.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\temp.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\temp.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\home.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\event.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\event.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\fan.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\fan.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key8.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key8.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bulb_off.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\bulb_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\alarm_off.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\alarm_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bath.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\bath.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backgarage.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backgarage.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\lobby.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\lobby.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key2.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key2.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key5.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key5.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\about.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\garage_open.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\garage_open.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key3.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key3.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backkitchen.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backkitchen.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\new_event.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\new_event.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\filled_pin.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\filled_pin.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\alarm.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\downarrow.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\downarrow.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key9.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backbed.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backbed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\secoff.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\secoff.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\newpass.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\newpass.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\drawing.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\drawing.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\pass.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\pass.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backbath.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backbath.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\sche.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\sche.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\door_open.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\door_open.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key4.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key4.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\garage.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\garage.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bulb.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\bulb.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\key1.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\key1.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\home2.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\home2.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\trans.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\trans.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\login_button.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\login_button.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\garage_close.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\garage_close.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\kitchen.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\kitchen.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\uparrow.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\uparrow.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backdrawing.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backdrawing.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\secon.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\secon.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\backhome.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\backhome.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\SmartHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\Projects\\SmartHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
